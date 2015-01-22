@@ -1,6 +1,7 @@
 body {
   background-color: white;
   background-image: url("https://webster.cs.washington.edu/images/silverware.jpg");
+  background-attachment: fixed;
 }
 
 h1 {
