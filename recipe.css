@@ -2,45 +2,56 @@ body {
   background-color: white;
   background-image: url("https://webster.cs.washington.edu/images/silverware.jpg");
   background-attachment: fixed;
+  color: #404040;
+  font-family: Georgia, Garamond, serif;
+  font-size: 11pt;
 }
 
 h1 {
-  background-color: #F0F0F0;
+  color: #A4A400;
+  display: inline;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
+  font-size: 22pt;
+  font-weight: bold;
+  letter-spacing: 0.25em; 
   text-align: center;
-  color: #A4A400;
-  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
-  font-size: 22pt;
 }
 
-h2 {
+h1 span{
   background-color: #F0F0F0;
-  text-align: left;
-  color: #A4A400;
-  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
-  font-size: 22pt;
 }
 
-h3 {
+h2, h3, h4, h5 {
   background-color: #F0F0F0;
-  text-align: left;
   color: #A4A400;
-  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
-  font-size: 22pt;
+  display: inline;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
+  font-size: 18pt;
+  letter-spacing: 0.25em; 
+  text-align: left;
 }
 
-h4 {
-  background-color: #F0F0F0;
-  text-align: left;
-  color: #A4A400;
-  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
-  font-size: 22pt;
+a {
+  color: #A4A400; 
 }
 
-dl {
+pre {
+    font-family: "Lucida Console";
+}
+
+ul {
+  list-style-image: url("https://webster.cs.washington.edu/images/pie-icon.gif");
+}
+
+p.comment {
+  background-color: #FFFFA8;
+  font-style: italic;
+  margin-left: 50px;
+}
+div{
+list-style-image: url("https://webster.cs.washington.edu/images/pie-icon.gif");
+color: #404040;
+  font-family: Georgia, Garamond, serif;
   font-size: 11pt;
-  font-family: "Georgia";
 }
 
-p {
-  font-size: 11pt;
-}
