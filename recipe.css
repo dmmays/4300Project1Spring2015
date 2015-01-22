@@ -52,7 +52,7 @@ ul {
   list-style-image: url("https://webster.cs.washington.edu/images/pie-icon.gif");
 }
 
-p {
+h4 p {
   background-color: #FFFFA8;
   font-style: italic;
   text-indent: 50px;
