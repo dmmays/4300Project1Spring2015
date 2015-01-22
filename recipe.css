@@ -38,7 +38,7 @@ ul {
   list-style-image: url("https://webster.cs.washington.edu/images/pie-icon.gif");
 }
 
-p {
+p.comment {
   background-color: #FFFFA8;
   font-style: italic;
   margin-left: 50px;
