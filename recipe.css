@@ -7,45 +7,14 @@ body {
   font-size: 11pt;
 }
 
-h1 {
+h1, h2, h3, h4, h5 {
   background-color: #F0F0F0;
   text-align: center;
   color: #A4A400;
   font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
   font-size: 22pt;
   font-weight: bold;
-}
-
-h2 {
-  background-color: #F0F0F0;
-  text-align: left;
-  color: #A4A400;
-  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
-  font-size: 18pt;
-}
-
-h3 {
-  background-color: #F0F0F0;
-  text-align: left;
-  color: #A4A400;
-  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
-  font-size: 18pt;
-}
-
-h4 {
-  background-color: #F0F0F0;
-  text-align: left;
-  color: #A4A400;
-  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
-  font-size: 18pt;
-}
-
-h5 {
-  background-color: #F0F0F0;
-  text-align: left;
-  color: #A4A400;
-  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
-  font-size: 18pt;
+  letter-spacing: 0.25em; 
 }
 
 a {
@@ -63,5 +32,5 @@ ul {
 p {
   background-color: #FFFFA8;
   font-style: italic;
-  text-indent: 50px;
+  margin-left: 50px;
 }
