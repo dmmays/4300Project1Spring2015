@@ -1,3 +1,20 @@
+head {
+  background-color: #F0F0F0;
+  text-align: center;
+  color: #A4A400;
+  font-family: "Lucinda Sans Unicode";
+  font-size: 22pt;
+}
+
+dl {
+  font-size: 11pt;
+  font-family: "Georgia";
+}
+
+p {
+  font-size: 11pt;
+}
+
 body {
   background-image: url("https://webster.cs.washington.edu/images/silverware.jpg");
   background-repeat: repeat-x;
