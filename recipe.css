@@ -8,7 +8,6 @@ body {
 }
 
 h1 {
-  background-color: #F0F0F0;
   color: #A4A400;
   display: inline;
   font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
@@ -16,6 +15,10 @@ h1 {
   font-weight: bold;
   letter-spacing: 0.25em; 
   text-align: center;
+}
+
+h1 span{
+  background-color: #F0F0F0;
 }
 
 h2, h3, h4, h5 {
