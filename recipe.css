@@ -1,3 +1,10 @@
+body {
+  background-color: white;
+  background-image: url("https://webster.cs.washington.edu/images/silverware.jpg");
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
+}
+
 h1 {
   background-color: #F0F0F0;
   text-align: center;
@@ -37,11 +44,4 @@ dl {
 
 p {
   font-size: 11pt;
-}
-
-body {
-  background-color: white;
-  background-image: url("https://webster.cs.washington.edu/images/silverware.jpg");
-  background-repeat: repeat-x;
-  background-repeat: repeat-y;
 }
