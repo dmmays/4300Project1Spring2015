@@ -2,7 +2,7 @@ h1 {
   background-color: #F0F0F0;
   text-align: center;
   color: #A4A400;
-  font-family: "Lucinda Sans Unicode";
+  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
   font-size: 22pt;
 }
 
@@ -10,7 +10,7 @@ h2 {
   background-color: #F0F0F0;
   text-align: left;
   color: #A4A400;
-  font-family: "Lucinda Sans Unicode";
+  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
   font-size: 22pt;
 }
 
@@ -18,7 +18,15 @@ h3 {
   background-color: #F0F0F0;
   text-align: left;
   color: #A4A400;
-  font-family: "Lucinda Sans Unicode";
+  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
+  font-size: 22pt;
+}
+
+h4 {
+  background-color: #F0F0F0;
+  text-align: left;
+  color: #A4A400;
+  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
   font-size: 22pt;
 }
 
@@ -32,6 +40,7 @@ p {
 }
 
 body {
+  background-color: white;
   background-image: url("https://webster.cs.washington.edu/images/silverware.jpg");
   background-repeat: repeat-x;
   background-repeat: repeat-y;
