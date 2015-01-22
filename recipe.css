@@ -1,8 +1,6 @@
 body {
   background-color: white;
   background-image: url("https://webster.cs.washington.edu/images/silverware.jpg");
-  background-repeat: repeat-x;
-  background-repeat: repeat-y;
 }
 
 h1 {
