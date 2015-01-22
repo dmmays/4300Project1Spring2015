@@ -11,7 +11,7 @@ h1 {
   background-color: #F0F0F0;
   text-align: center;
   color: #A4A400;
-  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
   font-size: 22pt;
   font-weight: bold;
 }
@@ -20,7 +20,7 @@ h2 {
   background-color: #F0F0F0;
   text-align: left;
   color: #A4A400;
-  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
   font-size: 18pt;
 }
 
@@ -28,7 +28,7 @@ h3 {
   background-color: #F0F0F0;
   text-align: left;
   color: #A4A400;
-  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
   font-size: 18pt;
 }
 
@@ -36,12 +36,16 @@ h4 {
   background-color: #F0F0F0;
   text-align: left;
   color: #A4A400;
-  font-family: "Lucinda Sans Unicode", Helvetica, Arial, serif;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
   font-size: 18pt;
 }
 
 a {
   color: #A4A400; 
+}
+
+pre {
+    font-family: "Lucida Console";
 }
 
 
