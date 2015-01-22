@@ -2,28 +2,28 @@ body {
   background-color: white;
   background-image: url("https://webster.cs.washington.edu/images/silverware.jpg");
   background-attachment: fixed;
-  font-family: Georgia, Garamond, serif;
   color: #404040;
+  font-family: Georgia, Garamond, serif;
   font-size: 11pt;
 }
 
 h1 {
   background-color: #F0F0F0;
-  text-align: center;
   color: #A4A400;
   font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
   font-size: 22pt;
   font-weight: bold;
   letter-spacing: 0.25em; 
+  text-align: center;
 }
 
 h2, h3, h4, h5 {
   background-color: #F0F0F0;
-  text-align: left;
   color: #A4A400;
   font-family: "Lucida Sans Unicode", Helvetica, Arial, serif;
   font-size: 18pt;
   letter-spacing: 0.25em; 
+  text-align: left;
 }
 
 a {
